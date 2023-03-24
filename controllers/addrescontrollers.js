@@ -1,6 +1,6 @@
 const jwt = require("jsonwebtoken")
 const mongodb = require('mongodb');
-const address = require('../Model/addressmodel');
+const address = require('../model/addressmodel');
 const asyncHandler = require('express-async-handler');
 
 

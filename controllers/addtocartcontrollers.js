@@ -1,6 +1,6 @@
 const jwt = require("jsonwebtoken")
 const mongodb = require('mongodb');
-const addtocard = require('../Model/addtocartmodel');
+const addtocard = require('../model/addtocartmodel');
 const asyncHandler = require('express-async-handler');
 
 

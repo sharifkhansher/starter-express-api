@@ -1,4 +1,4 @@
-const signup = require('../Model/signupmodel')
+const signup = require('../model/signupmodel')
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const asyncHandler = require('express-async-handler');

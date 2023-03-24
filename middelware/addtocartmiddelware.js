@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
 const asyncHandler = require('express-async-handler');
-const addtocard = require('../Model/addtocartmodel')
+const addtocard = require('../model/addtocartmodel')
 
 const protect = asyncHandler(async (req,res,next)=>{
     let token
