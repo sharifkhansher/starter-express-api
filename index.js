@@ -4,7 +4,7 @@ const { route } = require('./routes/wishlistroutes');
 const dotenv = require('dotenv').config();
 const port = process.env.PORT || 5000;
 const cors = require("cors");
- const ConnectDB = require('./Config/db');
+ const ConnectDB = require('./config/db');
  ConnectDB()
 
 app.use(express.urlencoded({ extended: false }));
