@@ -43,7 +43,7 @@ const deletewishlist =async(req,res)=>{
     console.log("=======>",req.params._id);
    if(!datas){
    res.ststus(400);
-   res.send("user not found ")
+   res.json("user not found ")
    }
     const deleteResult = await wishlist.deleteMany({_id: datas._id});
     console.log("=====delete data=====>",deleteResult)

@@ -48,7 +48,7 @@ const deleteaddtocard =async(req,res)=>{
     console.log("=======>",req.params._id);
    if(!data){
    res.ststus(400);
-   res.send("user not found ")
+   res.json("user not found ")
    }
     const deleteResult = await addtocard.deleteMany({_id: data._id});
     console.log("=====delete data=====>",deleteResult)

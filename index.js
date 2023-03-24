@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: false }));
  const errorHandler = require('./middelware/errormiddelwaer')
 
 app.get("/getdataa",(req,res)=>{
-    res.send("Hello sarif....")
+    res.json("Hello sarif....")
 })
  //app.use('/api/addtocard', require('./routes/addtocartroutes'));
 // app.use('/api/wishlish',require('./routes/wishlistroutes'));

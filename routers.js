@@ -9,22 +9,22 @@ app.get("/get",async(req,res)=>{
    let dataa = await db();  
    let result = await dataa.find().toArray();
    console.log(result);
-    res.send(result);
+   res.jsonres.json(result);
 })
 app.post("/post",async(req,res)=>{
  let data =  await db();
  let result = await data.insertOne(req.body);
- res.send(result);
+ res.json(result);
  })
  app.put("/:_id",async(req,res)=>{
     let data = await db();
     let result = await  data.updateOne({_id: new mongodb.ObjectId(req.params._id)},{$set:req.body});
-    res.send(result);
+    res.json(result);
     console.log(result);
  })
  app.delete("/delete/:_id",async(req,res)=>{
  let data = await db();
  let result =  await data.deleteOne(req.body)  ;
- res.send(result);
+ res.json(result);
  })
 app.listen(4000);
