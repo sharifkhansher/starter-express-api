@@ -31,7 +31,6 @@ const postsignup = async(req,res)=>{
         password:data.password,
         gender:data.gender,
         token:generateToken(data._id)
-
     })
 }
 
