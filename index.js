@@ -3,14 +3,14 @@ const app = express();
 const { route } = require('./routes/wishlistroutes');
 const dotenv = require('dotenv').config();
 const port = process.env.PORT || 5000;
-
+const cors = require("cors");
  const ConnectDB = require('./Config/db');
  ConnectDB()
 
 app.use(express.urlencoded({ extended: false }));
 
  const errorHandler = require('./middelware/errormiddelwaer')
-
+app.use(cors())
 app.get("/getdataa",(req,res)=>{
     res.json("Hello sarif....")
 })
