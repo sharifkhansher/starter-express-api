@@ -5435,10 +5435,158 @@ const WesternDressesForWomen = [
      }
 ]
 
+
+
+const StellarStylesForHim = [
+    {
+        title:"Stellar Styles For Him",
+        Productlist:[
+            { 
+                title:"Men Slim Fit Solid Spread Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/v/g/u/s-r-stbrg-stoneberg-original-imaghf7mfydfgfxg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/3/t/n/s-r-stbrg-stoneberg-original-imaghf7m5yt6urzk.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/l/k/w/s-r-stbrg-stoneberg-original-imaghf7m3zuhkhpm.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBMP1A445",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Royon",
+                    
+
+                }
+            },
+
+
+            { 
+                title:"Men Slim Fit Solid Spread Collar Formal Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/o/6/x/xxl-r-black-stoneberg-original-imageum2jqhkdmhj.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/5/o/f/xxl-r-black-stoneberg-original-imageum2fbxk8s7b.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/g/8/m/xxl-r-black-stoneberg-original-imageum2fusthtfg.jpeg?q=70"],
+                sellingPrice:"1893",
+                disPrice:"1445",
+                disPrsent:"21%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSC4A448",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+
+            { 
+                title:"Men Slim Fit Checkered Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/c/6/m-pk19sh09b-surhi-original-imaft8w4sdbfhphu-bb.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/j/2/2xl-pk19sh09b-surhi-original-imaft8wh9tjw77ke.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/a/2/u/2xl-pk19sh09b-surhi-original-imaft8w4k6xheux6.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    Productcode:"SHSTYBPPCS452",
+                    Idealfor:"men",
+                    Packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+            {
+                title:"Men Slim Fit Washed Mandarin Collar Casual Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/t/j/e/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxs7pp5yuq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/p/u/l/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxfeu2gk6e.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/j/w/r/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxqknaxhyz.jpeg?q=70"],
+                sellingPrice:"1349",
+                disPrice:"455",
+                disPrsent:"66%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBCLRSTP9A453",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+
+            { 
+                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/w/o/e/l-check1195-tanip-original-image85ekvh7rgue.jpeg?q=70"],       
+                sellingPrice:"999",
+                disPrice:"529",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSLABLBOXCHDA466",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+
+            { 
+                title:"Men Regular Fit Solid Spread Collar Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kzogn0w0/shirt/c/n/x/xl-monikat-magenta-voroxy-original-imagbmqzvhcqhzbv.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/kzogn0w0/shirt/b/x/e/xl-monikat-magenta-voroxy-original-imagbmqzmb5ug3ng.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/kzogn0w0/shirt/s/m/a/xl-monikat-magenta-voroxy-original-imagbmqz5stgafra.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"245",
+                disPrsent:"75%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSSLASHBOXA465",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+        ]
+     }
+]
+
     module.exports={
         Categories,
         StylishKurtiCollections,
-        WesternDressesForWomen
+        WesternDressesForWomen,
+        StellarStylesForHim
 
     }
 

@@ -1,5 +1,5 @@
 const express= require('express');
-const {Categories,StylishKurtiCollections,WesternDressesForWomen } = require('../data')
+const {Categories,StylishKurtiCollections,WesternDressesForWomen,StellarStylesForHim } = require('../data')
 
 const router = express.Router();
 
@@ -14,6 +14,9 @@ router.get('/skc',(req,res)=>{
 })  
 router.get('/wdw',(req,res)=>{
     res.json({status:true,WesternDressesForWomen})
+})  
+router.get('/wdw',(req,res)=>{
+    res.json({status:true,StellarStylesForHim})
 })  
 
 
