@@ -9,7 +9,7 @@ router.use(express.json())
 router.get('/',(req,res)=>{
     res.json({status:true,Categories})
 })    
-router.get('/SKC',(req,res)=>{
+router.get('/skc',(req,res)=>{
     res.json({status:true,StylishKurtiCollections})
 })  
 // router.get('/SSC',(req,res)=>{
