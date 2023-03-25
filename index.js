@@ -18,7 +18,7 @@ app.use(cors())
  app.use('/api/wishlish',require('./routes/wishlistroutes'));
  app.use('/api/signup', require('./routes/sginuproutes'));
  app.use('/api/address', require('./routes/addressroutes'));
-
+app.use('/api/data',require('./routes/dataroutes'))
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
 });
