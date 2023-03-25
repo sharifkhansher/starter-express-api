@@ -5228,9 +5228,217 @@ const StylishKurtiCollections = [
 ]
 
 
+
+const WesternDressesForWomen = [
+    {
+        title:"Western Dresses For Women",
+        Productlist:[
+        {
+            title:"Women Maxi Blue Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/1/h/g/m-pw333-purshottam-wala-original-imag8zf6ybkmhehy-bb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/r/9/m/xs-dks333-dk-fab-original-imag8zf6xefgrkfj.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvvad8w0/kurta/e/n/c/m-pw333-purshottam-wala-original-imag8zf6vbjhytyr.jpeg?q=70"],
+            sellingPrice:"1899",
+            disPrice:"379",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRYAGYVL35001A135",
+                idealFor:"Women",
+                packOf:"1 ( Kurti + Bottom)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Slub linen"
+              }
+           }, 
+
+
+           {
+            title:"Women A-line Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/u/g/z/l-pwd396-purshottam-wala-original-imaghzt7pehffh8w.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/l/q/s/l-pwd396-purshottam-wala-original-imaghzt73rk8dsac.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/x/c/n/l-pwd396-purshottam-wala-original-imaghzt7yawvsygy.jpeg?q=70"],
+            sellingPrice:"2199",
+            disPrice:"379",
+            disPrsent:"82%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRYAAL2002A140",
+                idealFor:"Women",
+                packOf:"1 ( Kurti + Bottom + Dupatta)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Asymmetric Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/5/w/xl-322k772-saara-original-imafz3xfdnekz6by-bb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kjkbv680-0/kurta/c/9/n/xl-322k772-saara-original-imafz3xfp2egv2fz.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kjkbv680-0/kurta/c/u/8/l-322kr772-sanisa-original-imafz3y4mayxss4c.jpeg?q=70"],
+            sellingPrice:"1997",
+            disPrice:"299",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD001A419",
+                idealFor:"Women",
+                packOf:"1( Kurti + Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy tesla slub"
+              }
+           }, 
+
+
+           {
+            title:"Women Maxi Maroon Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kvcpn680/dress/5/d/v/xl-dv333-daevish-original-imag89k7mw5hc3zd.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvcpn680/dress/u/e/k/xl-dv333-daevish-original-imag89k7wg9s3kck.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvcpn680/dress/4/3/w/xl-dv333-daevish-original-imag89k7zzny9hf7.jpeg?q=70"],
+            sellingPrice:"1899",
+            disPrice:"379",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRGM1002A180",
+                idealFor:"Women",
+                packOf:"1 (Kurti + Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Fit and Flare Blue Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/e/a/p/s-pwd322-purshottam-wala-original-imagm6ywr7vz95sz.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/7/l/3/s-pwd322-purshottam-wala-original-imagm6ywpygucx3g.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/g/f/i/s-pwd322-purshottam-wala-original-imagmddhdevbfphg.jpeg?q=70"],
+            sellingPrice:"2099",
+            disPrice:"379",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRYSENC01A274",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Fit and Flare Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/q/7/v/s-pwd322-purshottam-wala-original-imagm7ypaavduvnm.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/z/a/s-pwd322-purshottam-wala-original-imagm7ypp8g7r9mk.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/1/2/o/s-pwd322-purshottam-wala-original-imagm7ypjvj7pwre.jpeg?q=70"],
+            sellingPrice:"2099",
+            disPrice:"379",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKVAMLKNV21007A245",
+                idealFor:"Women",
+                packOf:"1 (Kurti+ Bottom+ Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Fit and Flare Multicolor Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kvpklu80/dress/r/3/4/s-aa-0119-mauve-boho-long-dress-aayu-original-imag8k648mcxpeud.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvpklu80/dress/4/u/b/l-aa-0119-mauve-boho-long-dress-aayu-original-imag8k645zmjcgmy.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvpklu80/dress/0/i/z/s-aa-0119-mauve-boho-long-dress-aayu-original-imag8k64vza4ze3c.jpeg?q=70" ],
+            sellingPrice:"1099",
+            disPrice:"399",
+            disPrsent:"63%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKVAMLCPA201",
+                idealFor:"Women",
+                packOf:"1( Kurti+ Bottom+ Dupatta) ",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Ethnic Dress Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/c/6/z/xs-pw320-purshottam-wala-original-imagm5xzsmbf65sv.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/o/8/3/xs-pw320-purshottam-wala-original-imagm5xzwxcyspvu.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kshtxu80/dress/e/h/k/m-dv320-daevish-original-imag6fxnwsfceejx.jpeg?q=70"],
+            sellingPrice:"1799",
+            disPrice:"379",
+            disPrsent:"78%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKARFFR1010A81",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Cotton"
+              }
+           }, 
+        ]
+     }
+]
+
     module.exports={
         Categories,
-        StylishKurtiCollections
+        StylishKurtiCollections,
+        WesternDressesForWomen
 
     }
 
