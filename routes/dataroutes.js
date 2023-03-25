@@ -15,7 +15,7 @@ router.get('/skc',(req,res)=>{
 router.get('/wdw',(req,res)=>{
     res.json({status:true,WesternDressesForWomen})
 })  
-router.get('/wdw',(req,res)=>{
+router.get('/ssh',(req,res)=>{
     res.json({status:true,StellarStylesForHim})
 })  
 
