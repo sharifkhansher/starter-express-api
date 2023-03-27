@@ -4,7 +4,7 @@ router.use(express.json());
 
 const { postsignup, LoginUser} = require('../controllers/sginupcontrollers')
 
-router.post('/',postsignup)
+router.post('/signup',postsignup)
 router.post('/login',LoginUser)
 
 module.exports = router
