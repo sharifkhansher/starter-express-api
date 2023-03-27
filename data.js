@@ -5935,11 +5935,8 @@ const Swaiper = [
             },
         ]
       },
-    {
-    },
-    {
-        
-    }
+    
+  
 ]
     module.exports={
         Categories,
