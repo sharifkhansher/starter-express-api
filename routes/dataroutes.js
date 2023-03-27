@@ -1,5 +1,5 @@
 const express= require('express');
-const {Categories,StylishKurtiCollections,WesternDressesForWomen,StellarStylesForHim } = require('../data')
+const {Categories,StylishKurtiCollections,WesternDressesForWomen,StellarStylesForHim,Swaiper } = require('../data')
 
 const router = express.Router();
 
@@ -18,6 +18,9 @@ router.get('/wdw',(req,res)=>{
 router.get('/ssh',(req,res)=>{
     res.json({status:true,StellarStylesForHim})
 })  
+router.get('/s',(req,res)=>{
+    res.json({status:true,Swaiper})
+})
 
 
 module.exports = router
