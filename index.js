@@ -5,11 +5,14 @@ const dotenv = require('dotenv').config();
 const port = process.env.PORT || 5000;
 const cors = require("cors");
  const ConnectDB = require('./config/db');
+ const path = require('path')
  ConnectDB()
+ app.use("/uploads/images", express.static(path.join("uploads", "images")))
 
 app.use(express.urlencoded({ extended: false }));
 
- const errorHandler = require('./middelware/errormiddelwaer')
+ const errorHandler = require('./middelware/errormiddelwaer');
+const fileUpload = require('./utils/fileUpload');
 app.use(cors())
 // app.get("/getdataa",(req,res)=>{
 //     res.json("Hello sarif....")
@@ -19,6 +22,22 @@ app.use(cors())
  app.use('/api/shopeen', require('./routes/sginuproutes'));
  app.use('/api/address', require('./routes/addressroutes'));
 app.use('/api/data',require('./routes/dataroutes'))
+
+
+
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
 });
+    
+    app.post("/create",
+    fileUpload("profile").array("photo", 5),
+
+    (req, res) => {
+        console.log("====dddd.body==>>", req.body);
+        console.log("------->>>", req.files);
+        res.json({ message: "image added...", image: `http://localhost:5000/uploads/images/profile/${req.files[0].filename}` })
+    }
+);
+
+
+
