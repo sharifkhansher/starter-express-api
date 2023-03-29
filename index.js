@@ -31,7 +31,7 @@ app.listen(port, () => {
     console.log(`port is colled ${port}`);
 });
 
-app.get('/',(req,res)=>{
+app.get('/ab',(req,res)=>{
     res.send("hellooo sharif")
 })
     
