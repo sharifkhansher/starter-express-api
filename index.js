@@ -23,6 +23,8 @@ app.use(cors())
  app.use('/api/address', require('./routes/addressroutes'));
 app.use('/api/data',require('./routes/dataroutes'))
 
+console.log("hii sharif khan");
+
 
 
 app.listen(port, () => {
