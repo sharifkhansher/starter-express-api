@@ -30,6 +30,10 @@ console.log("hii sharif khan sherani");
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
 });
+
+app.get('/',(req,res)=>{
+    res.send("hellooo sharif")
+})
     
     app.post("/create",
     fileUpload("profile").array("photo", 5),
