@@ -24,6 +24,7 @@ app.use(cors())
 app.use('/api/data',require('./routes/dataroutes'))
 app.use('/api/intiles',require('./routes/intilasroutes/intilesroutes'))
 app.use('/api/todo',require('./routes/intilasroutes/todoroutes'))
+app.use('/api/doing',require('./routes/intilasroutes/doingroutes'))
 
 console.log("hii sharif khan sherani");
 
