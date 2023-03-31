@@ -1,7 +1,7 @@
 const jwt = require("jsonwebtoken")
 const bcrypt = require('bcryptjs');
 const mongodb = require('mongodb');
-const inti = require('../model/intilesmodel');
+const inti = require('../../model/intilasmodel/intilesmodel');
 const asyncHandler = require('express-async-handler');
 
 
@@ -29,7 +29,7 @@ const postintiale = async(req, res) => {
         
     });
   
-    console.log("====>", data); 
+    console.log("====>", data);
     res.status(200).json(data)
 }
 

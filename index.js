@@ -22,8 +22,8 @@ app.use(cors())
  app.use('/api/shopeen', require('./routes/sginuproutes'));
  app.use('/api/address', require('./routes/addressroutes'));
 app.use('/api/data',require('./routes/dataroutes'))
-app.use('/api/intiles',require('./routes/intilesroutes'))
-app.use('/api/todo',require('./routes/todoroutes'))
+app.use('/api/intiles',require('./routes/intilasroutes/intilesroutes'))
+app.use('/api/todo',require('./routes/intilasroutes/todoroutes'))
 
 console.log("hii sharif khan sherani");
 

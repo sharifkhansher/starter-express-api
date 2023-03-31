@@ -1,7 +1,7 @@
 const jwt = require("jsonwebtoken")
 const bcrypt = require('bcryptjs');
 const mongodb = require('mongodb');
-const todo = require('../model/todomodel');
+const todo = require('../../model/intilasmodel/todomodel');
 const asyncHandler = require('express-async-handler');
 
 
